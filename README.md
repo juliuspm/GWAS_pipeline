@@ -1,7 +1,8 @@
-OK, here is a change.
+# Genome-wide Association Mapping
 
+Repository for gene and pathway-based genome wide association mapping.
 
-# bcma
-nextgen data
-
-This is the readme data for bcma
+The following are required:
+* * SNP-only VCF files
+* * Reference genome
+* * Breeding values
